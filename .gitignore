@@ -1,0 +1,5 @@
+*.log
+*.env
+*.txt
+folder1/
+example1.txt
